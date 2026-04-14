@@ -4,7 +4,7 @@
 
 <pre>
     👨‍💻 Back-End developer .NET + SQL + Azure Devops
-    📖 Linux • GCP • Python
+    📖 Ruby • Linux • GCP • Python
     🎮 Videogames • Anime • Movies • Crafting • Sports
 </pre>
 
