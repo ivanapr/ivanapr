@@ -3,8 +3,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Ivana%20Pr&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 <pre>
-    👨‍💻 Back-End developer .NET + SQL + Azure Devops
-    📖 Ruby • Linux • GCP • Python
+    👨‍💻 Back-End developer .NET
+    📖 Blockchain • Linux • Haskell • Python
     🎮 Videogames • Anime • Movies • Crafting • Sports
 </pre>
 
